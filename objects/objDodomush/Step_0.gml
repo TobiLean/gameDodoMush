@@ -99,6 +99,9 @@ if (minutes <= 0 and seconds <= 0)
 		
 }
 
+//sound
+if (keyJump) audio_play_sound(sfxJump,10,false);
+
 //Time = 90;
 //if (Time = 0) sprite_index = sprDodoMushDead;
 

@@ -16,6 +16,9 @@ flash = 3;
 // Player Dies
 	pTime -=30;
 
+// Sound
+audio_play_sound(sfxHit, 11, false);
+
 with (other)
 {
 	instance_destroy();
