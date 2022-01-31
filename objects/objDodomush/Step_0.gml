@@ -96,6 +96,11 @@ if (minutes <= 0 and seconds <= 0)
 	ms = 0;
 	instance_create_layer(x, y, layer, objDodomushDead);
 	instance_destroy();
+	
+	var target = rmFail;
+	if (room == rmMain) target = rmFail;
+ 
+ TransitionStart(target, sqFadeOut, sqFadeIn);
 		
 }
 

@@ -1,5 +1,5 @@
-/// @desc start shit
-var target = Room2;
-if (room == Room1) target = Room2;
+/// @desc Go to the next room
+var target = rmWin;
+if (room == rmMain) target = rmWin;
  
  TransitionStart(target, sqFadeOut, sqFadeIn);

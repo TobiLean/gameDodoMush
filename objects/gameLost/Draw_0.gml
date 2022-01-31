@@ -6,4 +6,4 @@ draw_set_halign(fa_center);
 draw_set_valign(fa_top);
 
 // Draw the Timer
-draw_text(650, 340, "You Dit it!!!")
+draw_text(650, 340, "You Didn't do it :(")
