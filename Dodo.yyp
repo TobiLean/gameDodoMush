@@ -17,6 +17,7 @@
     {"id":{"name":"sprDodoMushDead","path":"sprites/sprDodoMushDead/sprDodoMushDead.yy",},"order":11,},
     {"id":{"name":"shYellow","path":"shaders/shYellow/shYellow.yy",},"order":1,},
     {"id":{"name":"spraTundeRun","path":"sprites/spraTundeRun/spraTundeRun.yy",},"order":3,},
+    {"id":{"name":"objCamera","path":"objects/objCamera/objCamera.yy",},"order":12,},
     {"id":{"name":"objDodomush","path":"objects/objDodomush/objDodomush.yy",},"order":2,},
     {"id":{"name":"objPwrupAddTime","path":"objects/objPwrupAddTime/objPwrupAddTime.yy",},"order":5,},
     {"id":{"name":"sprDodomushJumpFall","path":"sprites/sprDodomushJumpFall/sprDodomushJumpFall.yy",},"order":7,},
@@ -51,7 +52,6 @@
   ],
   "isDnDProject": false,
   "isEcma": false,
-  "tutorialPath": "",
   "configs": {
     "name": "Default",
     "children": [],
@@ -85,7 +85,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.7.606",
+    "IDEVersion": "2022.1.1.610",
   },
   "resourceVersion": "1.4",
   "name": "Dodo",
