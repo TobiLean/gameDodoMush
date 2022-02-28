@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"screenShake","path":"scripts/screenShake/screenShake.yy",},"order":1,},
     {"id":{"name":"sprTransition","path":"sprites/sprTransition/sprTransition.yy",},"order":13,},
     {"id":{"name":"sfxPwrupAddTime","path":"sounds/sfxPwrupAddTime/sfxPwrupAddTime.yy",},"order":1,},
     {"id":{"name":"arialLarge","path":"fonts/arialLarge/arialLarge.yy",},"order":0,},
@@ -41,7 +42,7 @@
     {"id":{"name":"objTimer","path":"objects/objTimer/objTimer.yy",},"order":4,},
     {"id":{"name":"sfxJump","path":"sounds/sfxJump/sfxJump.yy",},"order":0,},
     {"id":{"name":"sprPwrupAddTime","path":"sprites/sprPwrupAddTime/sprPwrupAddTime.yy",},"order":10,},
-    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
+    {"id":{"name":"Transitions","path":"scripts/Transitions/Transitions.yy",},"order":0,},
     {"id":{"name":"comic_Sans","path":"fonts/comic_Sans/comic_Sans.yy",},"order":1,},
     {"id":{"name":"rmMain","path":"rooms/rmMain/rmMain.yy",},"order":0,},
   ],

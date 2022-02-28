@@ -5,6 +5,8 @@ with (objTimer)
 	//if (Time = 0) sprite_index = sprDodoMushDead;
 }
 
+screenShake(6, 10)
+
 // Bounce
 image_speed = 0;
 y = y - 10;
