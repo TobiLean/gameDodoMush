@@ -26,6 +26,7 @@
     {"id":{"name":"sprDodomushJumpFall","path":"sprites/sprDodomushJumpFall/sprDodomushJumpFall.yy",},"order":7,},
     {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},"order":14,},
     {"id":{"name":"sprBush","path":"sprites/sprBush/sprBush.yy",},"order":15,},
+    {"id":{"name":"objInvisibleWall","path":"objects/objInvisibleWall/objInvisibleWall.yy",},"order":13,},
     {"id":{"name":"sprEnemy","path":"sprites/sprEnemy/sprEnemy.yy",},"order":9,},
     {"id":{"name":"gameWon","path":"objects/gameWon/gameWon.yy",},"order":8,},
     {"id":{"name":"objDodomushDead","path":"objects/objDodomushDead/objDodomushDead.yy",},"order":6,},

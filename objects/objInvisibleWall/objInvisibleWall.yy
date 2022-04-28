@@ -4,11 +4,8 @@
     "path": "sprites/sprInvisibleWall/sprInvisibleWall.yy",
   },
   "solid": false,
-  "visible": false,
-  "spriteMaskId": {
-    "name": "sprInvisibleWall",
-    "path": "sprites/sprInvisibleWall/sprInvisibleWall.yy",
-  },
+  "visible": true,
+  "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
