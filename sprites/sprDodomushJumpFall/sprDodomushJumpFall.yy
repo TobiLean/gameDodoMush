@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sprDodomushJumpFall","path":"sprites/sprDodomushJumpFall/sprDodomushJumpFall.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sprDodomushJumpFall",
     "tags": [],
     "resourceType": "GMSequence",

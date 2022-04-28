@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sprDodoMushDead","path":"sprites/sprDodoMushDead/sprDodoMushDead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sprDodoMushDead",
     "tags": [],
     "resourceType": "GMSequence",

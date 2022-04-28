@@ -119,7 +119,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sprPwrupAddTime","path":"sprites/sprPwrupAddTime/sprPwrupAddTime.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sprPwrupAddTime",
     "tags": [],
     "resourceType": "GMSequence",

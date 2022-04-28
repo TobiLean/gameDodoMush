@@ -87,7 +87,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sprDodomushRun","path":"sprites/sprDodomushRun/sprDodomushRun.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sprDodomushRun",
     "tags": [],
     "resourceType": "GMSequence",

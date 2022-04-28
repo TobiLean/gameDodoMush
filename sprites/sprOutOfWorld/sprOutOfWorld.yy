@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sprOutOfWorld","path":"sprites/sprOutOfWorld/sprOutOfWorld.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sprOutOfWorld",
     "tags": [],
     "resourceType": "GMSequence",

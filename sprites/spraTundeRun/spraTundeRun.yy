@@ -167,7 +167,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spraTundeRun","path":"sprites/spraTundeRun/spraTundeRun.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spraTundeRun",
     "tags": [],
     "resourceType": "GMSequence",

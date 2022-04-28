@@ -127,7 +127,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sprDodomush","path":"sprites/sprDodomush/sprDodomush.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sprDodomush",
     "tags": [],
     "resourceType": "GMSequence",

@@ -158,7 +158,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sprEnemy","path":"sprites/sprEnemy/sprEnemy.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sprEnemy",
     "tags": [],
     "resourceType": "GMSequence",

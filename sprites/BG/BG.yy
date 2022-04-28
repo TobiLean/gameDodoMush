@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"BG","path":"sprites/BG/BG.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "BG",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sprPixel","path":"sprites/sprPixel/sprPixel.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sprPixel",
     "tags": [],
     "resourceType": "GMSequence",

@@ -119,7 +119,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spraTunde","path":"sprites/spraTunde/spraTunde.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spraTunde",
     "tags": [],
     "resourceType": "GMSequence",

@@ -91,7 +91,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sprBush","path":"sprites/sprBush/sprBush.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sprBush",
     "tags": [],
     "resourceType": "GMSequence",

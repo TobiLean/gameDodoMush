@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sprTundeJumpFall","path":"sprites/sprTundeJumpFall/sprTundeJumpFall.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sprTundeJumpFall",
     "tags": [],
     "resourceType": "GMSequence",

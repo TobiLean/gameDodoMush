@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"TileSheet","path":"sprites/TileSheet/TileSheet.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "TileSheet",
     "tags": [],
     "resourceType": "GMSequence",
