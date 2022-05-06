@@ -21,6 +21,7 @@
     "path": "texturegroups/Default",
   },
   "ascenderOffset": 0,
+  "ascender": 0,
   "glyphs": {
     "32": {"x":2,"y":2,"w":29,"h":93,"character":32,"shift":29,"offset":0,},
     "33": {"x":421,"y":192,"w":11,"h":93,"character":33,"shift":16,"offset":2,},
@@ -132,7 +133,7 @@
     "path": "folders/Fonts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "comic_Sans",
+  "name": "fntComicSans",
   "tags": [],
   "resourceType": "GMFont",
 }

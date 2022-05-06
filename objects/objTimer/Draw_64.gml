@@ -1,6 +1,6 @@
 /// @desc Draw timer
 
-draw_set_font(arialLarge);
+draw_set_font(fntCommandoLarge);
 if (Time <= 30)
 {
 	draw_set_color(c_red);
@@ -14,4 +14,3 @@ draw_set_valign(fa_top);
 
 // Draw the Timer
 draw_text(69, 33, string(minutes) + ":" + string_repeat( "0", 2 - string_length(string(seconds)))+ string(seconds));
-

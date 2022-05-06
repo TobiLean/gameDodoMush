@@ -21,6 +21,7 @@
     "path": "texturegroups/Default",
   },
   "ascenderOffset": 0,
+  "ascender": 0,
   "glyphs": {
     "32": {"x":2,"y":2,"w":8,"h":31,"character":32,"shift":8,"offset":0,},
     "33": {"x":158,"y":134,"w":9,"h":31,"character":33,"shift":9,"offset":1,},
@@ -219,7 +220,7 @@
     "path": "folders/Fonts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "arialLarge",
+  "name": "fntArialLarge",
   "tags": [],
   "resourceType": "GMFont",
 }

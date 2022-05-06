@@ -23,7 +23,12 @@ shakeRemain = max(0, shakeRemain - ((1/shakeLength) * shakeMag));
 
 // Update camera view
 camera_set_view_pos(cam, x - viewWHalf, y - viewHHalf);
-if (layer_exists("Trees_2"))
+if (layer_exists("Mountains"))
 {
-	layer_x("Trees_2", x/2)
+	layer_x("Mountains", x/2)
+}
+
+if (layer_exists("Trees"))
+{
+	layer_x("Trees", x/4)
 }
