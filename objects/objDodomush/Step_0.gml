@@ -1,9 +1,19 @@
 /// @desc Core player logic
 
 // Get player input
-keyLeft = keyboard_check(vk_left);
-keyRight = keyboard_check(vk_right);
-keyJump = keyboard_check_pressed(vk_up);
+
+if (hascontrol)
+{
+	keyLeft = keyboard_check(vk_left);
+	keyRight = keyboard_check(vk_right);
+	keyJump = keyboard_check_pressed(vk_up);
+}
+else
+{
+	keyRight = 0;
+	keyLeft = 0;
+	keyJump = 0;
+}
 
 // Gravity
 vsp = vsp + grv;

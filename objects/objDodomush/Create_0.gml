@@ -11,3 +11,4 @@ pTime = 90;
 minutes = pTime div 60;
 seconds = pTime mod 60;
 ms = 60;
+hascontrol = 1;
